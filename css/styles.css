@@ -1,0 +1,43 @@
+.top {
+  color: red;
+  float: right;
+}
+ .flex-column {
+   padding-top: 130px;
+   width: 10%;
+
+ }
+
+.info {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.main {
+  margin-left: 1px;
+  padding-top: 30px;
+}
+
+body {
+  float: left;
+}
