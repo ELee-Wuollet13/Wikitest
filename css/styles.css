@@ -23,6 +23,7 @@
 
 .pink {
   background-color: pink;
+  margin-top: 20px;
 }
 
 .green {
@@ -40,4 +41,39 @@
 
 body {
   float: left;
+}
+
+/* images */
+
+#bug {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+
+}
+
+img {
+  width: 25%;
+}
+
+.top-images {
+  float: left;
+  padding: 10px;
+}
+
+.bottom-images {
+  float: right;
+  padding: 10px;
+}
+#guy {
+  float: left;
+}
+.panel-body {
+  background-color: lightgreen;
+}
+
+.panel-body2 {
+  background-color: lightblue;
 }
