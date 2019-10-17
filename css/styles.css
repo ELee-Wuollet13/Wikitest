@@ -77,3 +77,11 @@ img {
 .panel-body2 {
   background-color: lightblue;
 }
+
+.panel-body3 {
+  background-color: pink;
+}
+
+#logo {
+  width: 100px;
+}
